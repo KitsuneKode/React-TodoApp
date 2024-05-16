@@ -1,7 +1,6 @@
-# Assignment-4-2-React
+# Todo-React
 
 https://github.com/KitsuneKode/React-TodoApp/assets/135751082/feb2eb3d-0d5d-4ecc-948d-6f920938ac0a
-
 
 This project is a simple Todo application built with React. It allows users to add todos with a title and description, and displays the list of todos. The count of todos is also displayed.
 
@@ -15,8 +14,8 @@ This project is a simple Todo application built with React. It allows users to a
 
 To install the project, follow these steps:
 
-1. Clone the repository: 
-2. Navigate into the project directory: `cd assignment-4-2-react`
+1. Clone the repository:
+2. Navigate into the project directory: `cd TodoReact`
 3. Install the dependencies: `npm install`
 
 ## Usage
@@ -39,8 +38,6 @@ Here's a brief overview of the `App` component:
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-
 
 ## License
 
